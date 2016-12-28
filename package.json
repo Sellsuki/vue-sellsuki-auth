@@ -1,6 +1,6 @@
 {
   "name": "vue-sellsuki-auth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "vue-sellsuki-auth",
   "main": "index.js",
   "scripts": {

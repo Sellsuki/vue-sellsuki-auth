@@ -1,7 +1,5 @@
 /* global localStorage */
-import PrepareLogin from './PrepareLogin'
-
-/* options { target, router } */
+const PrepareLogin = require('./PrepareLogin.vue')
 
 exports.install = function (Vue, options) {
   options.router.options.routes.push(
